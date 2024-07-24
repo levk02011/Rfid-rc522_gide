@@ -1,0 +1,7 @@
+3.3v - 3.3v
+gnd - gnd
+9 - rst
+10 - ss
+11 - mosi
+12 - miso
+13 - sck
